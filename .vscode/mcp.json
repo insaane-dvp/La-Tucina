@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "shadcn": {
+      "command": "npm",
+      "args": ["run", "mcp"]
+    }
+  }
+}

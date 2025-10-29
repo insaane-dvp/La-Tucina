@@ -1,0 +1,7 @@
+{
+  "model": "gemini-pro",
+  "provider": "google",
+  "port": 8000,
+  "apiKeyEnv": "GEMINI_API_KEY",
+  "name": "shadcn-mcp"
+}
